@@ -18,7 +18,7 @@ class employee{
         employee e1=new employee();
         
         e1.setData("nirav",30000);
-        //System.out.println();
+       
         e1.getData();
     }
 }
